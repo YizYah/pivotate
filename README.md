@@ -14,13 +14,3 @@ To run the production build:
 ```
 
 Copy the content of /build to your production server for production deployment.
-
-## OPTIONAL
-
-You can add Bootstrap 4 by running:
-
-```
-  npm install jquery popper.js bootstrap
-```
-
-Make sure to uncomment the loaders in app.js and style.scss. Bootstrap4 is then ready to go!
