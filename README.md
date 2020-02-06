@@ -1,11 +1,3 @@
-# HTML5-Boilerplate-Sass
-
-HTML5 Boilerplate Sass is a simple HTML5 Boilerplate App that includes Sass (and optionally Bootstrap 4) to get simple Web Apps off the ground quickly.
-
-It uses Webpack and Node, so you get all that sweet auto dependency management and Livereload :D
-
-This project is based on https://github.com/Dugnist/html5-boilerplate
-
 ## Get started
 
 ```
