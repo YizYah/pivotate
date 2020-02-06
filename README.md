@@ -1,11 +1,4 @@
 ## Get started
-
-```
-  git clone https://github.com/kLOsk/html5-boilerplate-sass.git my_project
-  cd my_project
-  npm install
-```
-
 Edit files in /src folder
 
 To run the development version with live reload, etc:
