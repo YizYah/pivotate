@@ -10,6 +10,11 @@
   .hero__header {
     padding: 80px 240px 80px 0;
   }
+  .how-it-works {
+    &__img {
+      width: initial !important;
+    }
+  }
 }
 
 /* MEDIA FOR NOTEBOOK DISPLAY */
@@ -30,7 +35,7 @@
       width: initial !important;
     }
   }
-  .why-it-works {
+  \ .why-it-works {
     &__img {
       width: 100% !important;
       height: initial !important;
